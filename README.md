@@ -1,5 +1,5 @@
 # **Portfolio Page for SynchronIvy/Michelle Howa**  
-<img src="https://github.com/SynchronIvy/synchronivy.github.io/assets/img/portfolio.png" width="200" height="200">
+<img src="assets/img/portfolio.png" width="750" height="200">
 
 # **Description**: 
 
